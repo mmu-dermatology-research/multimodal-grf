@@ -40,15 +40,15 @@ with open('/dataset/patient_data.csv', mode='r') as csv_file:
     # hdd seed    = 41094303
     np.random.seed(76539635)
 	
-	# change this to either 2 or 5 to replicate the types of GRFs from the paper
-	pi = 5.0
+    # change this to either 2 or 5 to replicate the types of GRFs from the paper
+    pi = 5.0
     
     # use this for variables that only have 2 possible values
-	# comment this line out if variables have more than 2 possible values
+    # comment this line out if variables have more than 2 possible values
     p_spec = -abs(pi + val)
 
     # use this for variables that have more than 2 possible values (e.g. dob)
-	# comment these 2 lines out if variables have only 2 possible values
+    # comment these 2 lines out if variables have only 2 possible values
     # pd = math.modf(val)[0]
     # p_spec = -abs(pi + pd)
 
