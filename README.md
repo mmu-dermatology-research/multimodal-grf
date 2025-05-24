@@ -42,6 +42,10 @@ Test the model using:
 
 Prediction masks are saved to the ``pred_mask`` directory.
 
+Optionally, if you are training several different models with different i values and want to merge prediction masks, use:
+
+    python merge_avg_masks.py
+
 Convert the prediction masks to 8-bit:
 
     python convert_masks.py
