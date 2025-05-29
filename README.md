@@ -3,12 +3,15 @@
 This repository contains source code for the following paper (please cite if using code or methods from this repo):
 
 ```BibTex
-@article{cassidy2025gaussian,
- title   = {Gaussian Random Fields as an Abstract Representation of Patient Metadata for Multimodal Medical Image Segmentation},
- author  = {Bill Cassidy and Christian McBride and Connah Kendrick and Neil D. Reeves and Joseph M. Pappachan and Shaghayegh Raad and Moi Hoon Yap},
- year    = {2025},
- journal = {arXiv preprint arXiv:2503.05214},
-} 
+@article{article,
+  author = {Bill Cassidy and Connah Kendrick and Neil D. Reeves and Joseph M Pappachan and Shaghayegh Raad and Moi Hoon Yap},
+  year = {2025},
+  month = {05},
+  pages = {},
+  title = {Gaussian random fields as an abstract representation of patient metadata for multimodal medical image segmentation},
+  journal = {Scientific Reports},
+  doi = {10.1038/s41598-025-03393-x}
+}
 ```
 
 Before training the model, create the conda environment as follows:
