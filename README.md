@@ -4,13 +4,13 @@ This repository contains source code for the following paper (please cite if usi
 
 ```BibTex
 @article{article,
-  author = {Bill Cassidy and Connah Kendrick and Neil D. Reeves and Joseph M Pappachan and Shaghayegh Raad and Moi Hoon Yap},
-  year = {2025},
-  month = {05},
-  pages = {},
-  title = {Gaussian random fields as an abstract representation of patient metadata for multimodal medical image segmentation},
+  author  = {Bill Cassidy and Connah Kendrick and Neil D. Reeves and Joseph M Pappachan and Shaghayegh Raad and Moi Hoon Yap},
+  year    = {2025},
+  month   = {05},
+  pages   = {},
+  title   = {Gaussian random fields as an abstract representation of patient metadata for multimodal medical image segmentation},
   journal = {Scientific Reports},
-  doi = {10.1038/s41598-025-03393-x}
+  doi     = {10.1038/s41598-025-03393-x}
 }
 ```
 
