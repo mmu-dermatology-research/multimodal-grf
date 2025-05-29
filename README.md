@@ -3,7 +3,7 @@
 This repository contains source code for the following paper (please cite if using code or methods from this repo):
 
 ```BibTex
-@article{article,
+@article{cassidy2025grf,
   author  = {Bill Cassidy and Connah Kendrick and Neil D. Reeves and Joseph M Pappachan and Shaghayegh Raad and Moi Hoon Yap},
   year    = {2025},
   month   = {05},
